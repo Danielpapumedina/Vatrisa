@@ -2,10 +2,14 @@ import React from 'react'
 
 const Home = () => { 
   return <>
+  
 
     <div class='containeri'>
-      <div class='intro'>Vatrisa: <p>Dedicados al servicio de logistica, Distribucion, Impulso comercial, Venta y Cobranza de diversos productos</p></div>
+      <div class='intro'>Desde 1989: <p>Impulsando la calidad </p></div>
     </div>
+    
+    <div class='Esloganimg'><img src="Almancen4.jpg" alt="Almacen" /></div>
+
     
     <div class="container">
     <br/>
@@ -28,7 +32,7 @@ const Home = () => {
         </div>
        
         <div class="item">
-          <img src="Tam.png" alt="fotografia" width="600" height="424"/> 
+          <img src="tamazula1.jpg" alt="fotografia" width="600" height="424"/> 
            <div class="carousel-caption d-none d-md-block">
       <h3> Salsa Tamazula</h3>
       <p>Salsa picante</p>
@@ -36,7 +40,7 @@ const Home = () => {
         </div>
   
        <div class="item">
-          <img src="shoyun.jpg" alt="pintura" width="600" height="424"/>
+          <img src="LOGO SHOYUN.jpg" alt="pintura" width="600" height="424"/>
            <div class="carousel-caption d-none d-md-block">
       <h3>Shoyun</h3>
       <p>Salsa soya</p>
@@ -57,7 +61,7 @@ const Home = () => {
     </div>
         </div>
         <div class="item">
-          <img src="Costa.jpg" alt="diseno" width="600" height="424"/> 
+          <img src="CostaBrava.jpg" alt="diseno" width="600" height="424"/> 
            <div class="carousel-caption d-none d-md-block">
       <h3>Costa Brava</h3>
       <p>Salsa</p>
@@ -79,14 +83,13 @@ const Home = () => {
 
 <div class='footer'>
 <footer>
-  <p>VATRISA IMPULSORA COMERCIAL.</p>
+  <p>Vatrisa Impulsora Comercial Guadalajara, Jalisco, México</p>
+ <p>Atención a clientes (33) 38 12 42 47 y 38 11 82 42.</p>
   <p><a href="zap791@amerike.edu.mx">zap791@amerike.edu.mx</a></p>
 </footer>
 </div>
 
   </>
-  
-  
 }
 
 

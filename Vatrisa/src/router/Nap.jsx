@@ -7,28 +7,20 @@ const Nap = () => {
 
     return (
       <>
-      <div className="navbar"> 
       
-       <div id="sec-1">
-            <a><Link to= {"/Home"} >Home</Link></a>
-           
-       </div>
-  
-        <div className="sec-2">
-            <a><Link to= {"/Nosotros"} >Nosotros</Link></a>
+
+      <div className="mi-navbar"> 
+      
+
+        <Link to= {"/Home"} >Vatrisa</Link> 
+
+        <div className="linksflex">
+            <Link to= {"/Home"} >Home</Link>        
+            <Link to= {"/Nosotros"} >Nosotros</Link>
+            <Link to= {"/Servicios"} >Servicios</Link>
+            <Link to= {"/Productos"} >Productos</Link>
+            <Link to= {"/Contactos"} >Contactos</Link>
         </div>
-
-            <div className="sec-3">
-            <a><Link to= {"/Servicios"} >Servicios</Link></a>
-        </div>
-
-            <div className="sec-4">
-            <a><Link to= {"/Productos"} >Productos</Link></a>
-            </div>
-
-            <div className="sec-5">
-            <a><Link to= {"/Contactos"} >Contactos</Link></a>
-            </div>
 
       </div>
 
