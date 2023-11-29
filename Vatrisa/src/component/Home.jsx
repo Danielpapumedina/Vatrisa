@@ -8,8 +8,13 @@ const Home = () => {
       <div class='intro'>Desde 1989: <p>Impulsando la calidad </p></div>
     </div>
     
-    <div class='Esloganimg'><img src="Almancen4.jpg" alt="Almacen" /></div>
-
+    <div class='Esloganimg'><img src="Bodega.jpg" alt="Almacen" />
+    <br /><br />
+    </div>
+    <div class='textobajoimg'>
+    <p>Cubrimos toda la zona metropolitana de Guadalajara y ofrecemos el servicio de Promotoria para dar a conocer tu producto con nuestro cliente</p>
+    </div>
+    
     
     <div class="container">
     <br/>

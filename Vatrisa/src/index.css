@@ -16,7 +16,7 @@
     flex: content; */
     color: #d3d3d4;
     background-color: #a74046;    
-    height: 50px;
+    height: 55px;
     font-size: 2rem;
 
     /* border-radius: 0px 0px 10px 10px; */
@@ -97,13 +97,20 @@ body{
     color: black;
 
 }
+.textobajoimg{
+    text-align: center;
+    font-size: 25px;
+    height: 110px;
+}
+.container{
+    margin-top: 60px;
+}
 .containeri{
     width: 700px;
     height: 100px;
-    margin-bottom: 100px;
     margin: 0 auto; 
     padding: 5px;
-    margin-bottom: 140px;
+    margin-bottom: 80px;
     
 }
 .containertext{
@@ -121,7 +128,7 @@ body{
 }
 .footer{
     font-size: 20px;
-    margin-top: 50px;
+    margin-top: 60px;
     background-color: #95949c;
 }
 
@@ -137,13 +144,16 @@ body{
 
 .Esloganimg {
     margin: 0 auto;
-    margin-bottom: 60px;
-    width: 300px;
+    margin-bottom: 100px;
+    width: 600px;
     height: 400px;
-
+    font-size: 25px;
 }
 
 .Esloganimg img{
-    width: 300px;
+    width: 600px;
     height: 400px;
+}
+.Nosotrostext{
+    text-align: left;
 }

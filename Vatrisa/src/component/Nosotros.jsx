@@ -7,7 +7,34 @@ const Nosotros = () => {
    </div>
 
 <div class='containerN2'>
-<div class='containertext2'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Distinctio sint cum nisi adipisci dolorum? Suscipit iure soluta, adipisci molestiae blanditiis necessitatibus. Quidem eos ducimus officia. Deserunt optio mollitia ipsam labore maiores voluptatum. Impedit dignissimos ipsa maxime, facilis quam, quos laudantium reprehenderit animi praesentium sunt repudiandae. Possimus, blanditiis delectus harum dolor et ad, nisi repellat labore pariatur deserunt numquam, vel veritatis ipsa neque voluptates esse non nobis eveniet fugit animi distinctio reprehenderit architecto in optio. Unde autem sunt iste a reiciendis molestias eos nesciunt ea, vero, iure expedita voluptas dicta eligendi quasi. Explicabo repudiandae amet corporis nam, ullam incidunt cupiditate laudantium.</div>
+<div class='containertext2'>Somos una empresa 100% Mexicana dedicada al servicio de logistica, Distribucion, impulso Comercial,Venta y Cobranza de diversos productos.
+<br />
+Utilizamos una amplia variedad de segmentos de mercado y cartera de clientes, para distribuir tu producto.
+<br />
+Contamos con equipo de ventas, almacen, y unidades de carga para la distribucion profesional. Nos respaldan mas de 25 años de experiencia.
+<br />
+<h2>Vision</h2>
+<br />
+Ofrecer a nuestros clientes la mejor alternativa de productos y servicios de distribucion eficientes, que nos permita alcanzar la rentabilidad esperada por los fabricantes y donde nuestros colaboradores encuentren el mejor lugar para trabajar.
+<br />
+<h2>Mision</h2>
+Consolidarnos como la empresa preferida en Guadalajara que ofrece productos y servicios especificos en la logistica y distribucion a traves de nuestros distintos canales de venta 
+<br />
+<h2>Valores</h2>
+<br />
+<div>
+
+  <div class='Nosotrostext'>
+  <ul>
+    <li>Lealtad </li>
+    <li>Honestidad</li>
+    <li>Confianza</li>
+    <li>Eficacia operativa</li>
+    <li>Servicio</li>
+  </ul>
+  </div>
+</div>
+</div>
 </div>
 
 
