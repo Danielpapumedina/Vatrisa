@@ -12,7 +12,7 @@ const Nap = () => {
       <div className="mi-navbar"> 
       
 
-        <Link to= {"/Home"} >Vatrisa</Link> 
+        <Link className="Logo" to= {"/Home"} ><img src="Vatrisa1.jpg" alt="Vatrisa" /></Link> 
 
         <div className="linksflex">
             <Link to= {"/Home"} >Home</Link>        
